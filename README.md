@@ -12,11 +12,11 @@
 * [第五章 高级发布-订阅模式][5]
 
 
-  [1]: https://github.com/haozu/zguide-cn/blob/master/chapter1.md
-  [2]: https://github.com/haozu/zguide-cn/blob/master/chapter2.md
-  [3]: https://github.com/haozu/zguide-cn/blob/master/chapter3.md
-  [4]: https://github.com/haozu/zguide-cn/blob/master/chapter4.md
-  [5]: https://github.com/haozu/zguide-cn/blob/master/chapter5.md
+  [1]: https://github.com/yishenggudou/zguide-cn/blob/master/chapter1.md
+  [2]: https://github.com/yishenggudou/zguide-cn/blob/master/chapter2.md
+  [3]: https://github.com/yishenggudou/zguide-cn/blob/master/chapter3.md
+  [4]: https://github.com/yishenggudou/zguide-cn/blob/master/chapter4.md
+  [5]: https://github.com/yishenggudou/zguide-cn/blob/master/chapter5.md
 
 ---
 
